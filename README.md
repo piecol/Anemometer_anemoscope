@@ -3,6 +3,14 @@
 # Fusion 360 model
 https://bit.ly/3wXU4yy
 
+# 3D printing
+FDM or resin should both work, so far I printed some prototypes in PLA at 0.2 layer height and tolerances are fine.
+
+Anemometer's cups have to be post-processed after printing by warming with an hot air station (180 C° for PETG) the segment that links each cup to the main triangular body. After 20-25 second, the link gets soft and the cup can be rotated by 90° in the desired direction.
+
+TODO:
+- rotation aligment jig
+
 
 # License
 
