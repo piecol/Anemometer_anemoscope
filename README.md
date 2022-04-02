@@ -1,5 +1,8 @@
 # Anemometer_anemoscope
 
+# Fusion 360 model
+https://bit.ly/3wXU4yy
+
 
 # License
 
