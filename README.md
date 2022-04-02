@@ -11,6 +11,11 @@ Anemometer's cups have to be post-processed after printing by warming with an ho
 TODO:
 - rotation aligment jig
 
+# Electronics
+
+Rotational encoder AS5600 module in I2C mode for the anemoscope. Current version uses a flat telephone 4-wires cable. 
+Planning to substitute it with a 5 or 6 wires cable to hook the anemometer's reed switch, that at the moment requires an additional cable. 
+
 
 # License
 
